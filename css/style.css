@@ -1,0 +1,9 @@
+ body {
+  background-color: gainsboro;
+}
+ .col div{
+    display: inline-block;
+    margin: 15px;
+    height: 150px;
+    width: 150px;
+    background-color: lightgray;
